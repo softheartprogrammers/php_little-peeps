@@ -11,7 +11,7 @@ require "conn.php";
   <div class="container mt-5">
     <div class="row justify-content-center">
       <div class="col-md-8">
-        <h2 class="text-center mb-4">Todo Application</h2>
+        <h2 class="text-center mb-4">Todo List</h2>
         <form action="insert.php" method="POST">
           <div class="input-group mb-3">
             <input type="text" class="form-control" placeholder="Add new todo" name="mytask" required>
